@@ -6,7 +6,6 @@ cryptography==39.0.2
 defusedxml==0.7.1
 Django==4.1.7
 django-allauth==0.52.0
-homebrew==0.2.5
 idna==3.4
 oauthlib==3.2.2
 Pillow==9.4.0
